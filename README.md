@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Saran
 
-<!--
-**Saran0906-PD/Saran0906-PD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+* 🔭 I’m currently working on Full Stack & ML Projects
+* 🌱 Learning High-Level System Design & Cloud
+* 💡 Interested in Scalable Architectures
+* 🤝 Looking to collaborate on MERN & AI projects
+* ⚡ Fun fact: I love building real-world deployable systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/saran-periyasamyy/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](saranytperiyasamy@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=yellow)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Saran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saran0906-PD\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Saran0906-PD\&theme=tokyonight)
+
+---
+
+## 🧠 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saran0906-PD\&layout=compact\&theme=tokyonight)
+
+---
+
+## ✍️ Dev Quote
+
+"The best way to predict the future is to build it."
