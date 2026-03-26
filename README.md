@@ -2,11 +2,12 @@
 
 ## 🚀 About Me
 
-* 🔭 I’m currently working on Full Stack & ML Projects
-* 🌱 Learning High-Level System Design & Cloud
-* 💡 Interested in Scalable Architectures
-* 🤝 Looking to collaborate on MERN & AI projects
-* ⚡ Fun fact: I love building real-world deployable systems
+* 🔭 I’m currently working on Full Stack, ML & Automation Projects  
+* 🤖 Built an AI-powered HR Virtual Secretary using n8n for email automation, scheduling, and task management  
+* 🌱 Learning High-Level System Design & Cloud  
+* 💡 Interested in Scalable Architectures  
+* 🤝 Looking to collaborate on MERN & AI projects  
+* ⚡ Fun fact: I love building real-world deployable systems  
 
 ---
 
