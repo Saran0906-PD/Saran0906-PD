@@ -27,12 +27,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Saran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saran0906-PD\&show_icons=true\&theme=tokyonight)
-
----
-
 ## ✍️ Dev Quote
 
 "The best way to predict the future is to build it."
