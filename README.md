@@ -33,18 +33,6 @@
 
 ---
 
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Saran0906-PD\&theme=tokyonight)
-
----
-
-## 🧠 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saran0906-PD\&layout=compact\&theme=tokyonight)
-
----
-
 ## ✍️ Dev Quote
 
 "The best way to predict the future is to build it."
